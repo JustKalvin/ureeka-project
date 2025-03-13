@@ -1,0 +1,50 @@
+[
+  {
+    "hari": "Senin",
+    "karbohidrat": "Nasi putih",
+    "lauk": "Ayam Goreng",
+    "buah": "Pisang",
+    "sayur": "Tumis Brokoli & Wortel",
+    "imgurl": "MenuSenin.png"
+  },
+  {
+    "hari": "Selasa",
+    "karbohidrat": "Nasi uduk",
+    "lauk": "Ayam Suwir",
+    "buah": "Semangka",
+    "sayur": "Tumis Buncis",
+    "imgurl": "MenuSelasa.png"
+  },
+  {
+    "hari": "Rabu",
+    "karbohidrat": "Mie",
+    "lauk": "Ayam Kecap",
+    "buah": "Jeruk manis",
+    "sayur": "Sayur Pakcoy",
+    "imgurl": "MenuRabu.png"
+  },
+  {
+    "hari": "Kamis",
+    "karbohidrat": "Nasi putih",
+    "lauk": "Ayam Bakar",
+    "buah": "Apel merah",
+    "sayur": "Tumis Jagung",
+    "imgurl": "MenuKamis.png"
+  },
+  {
+    "hari": "Jumat",
+    "karbohidrat": "Nasi Putih",
+    "lauk": "Udang asam manis",
+    "buah": "Semangka",
+    "sayur": "Sayur Capcay",
+    "imgurl": "MenuJumat.png"
+  },
+  {
+    "hari": "Sabtu",
+    "karbohidrat": "Nasi Kuning",
+    "lauk": "Semur Daging Sapi",
+    "buah": "Jeruk manis",
+    "sayur": "Tumis Kacang Panjang",
+    "imgurl": "MenuSabtu.png"
+  }
+]
