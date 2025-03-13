@@ -1,0 +1,31 @@
+/* Navbar.css */
+.navbar-custom {
+  background-color: rgba(255, 255, 255, 0);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+}
+
+.nav-link {
+  color: black;
+  font-weight: bold;
+  font-family: 'Barlow', sans-serif;
+  transition: color 0.3s ease-in-out;
+}
+
+.nav-link:hover {
+  color: #9e122c;
+}
+
+/* Efek hover untuk logo */
+.nav-logo {
+  transition: transform 0.3s ease-in-out;
+}
+
+.nav-logo:hover {
+  transform: scale(1.1);
+}
+
+.active-link {
+  color: #9e122c !important;
+  font-weight: bold;
+}

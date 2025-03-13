@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@400;700&display=swap');
+
+.zilla-slab {
+  font-family: 'Zilla Slab', serif;
+}
+
+.zilla-slab-bold {
+  font-family: 'Zilla Slab', serif;
+  font-weight: bold;
+} 
+
+.zilla-slab-semi-bold {
+  font-family: 'Zilla Slab', serif;
+  font-weight: 600;
+} 
+
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@400;700&family=Barlow:wght@400;700&display=swap');
+
+.barlow {
+  font-family: 'Barlow', sans-serif;
+}
+
+.barlow-bold {
+  font-family: 'Barlow', sans-serif;
+  font-weight: bold;
+}
