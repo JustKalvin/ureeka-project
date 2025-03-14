@@ -168,7 +168,7 @@ function Verifikasi() {
                 whileHover={{ scale: 1.1 }}
                 whileTap={{ scale: 0.9 }}
               >
-                Kembali
+                Lanjut
               </motion.button>
           </div>
         ) : selectedOption === "Ya" ? (
